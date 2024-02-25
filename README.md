@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **mobile apps**
 
-- 🌱 I’m currently learning **express.js**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **flutter**
 
